@@ -8,5 +8,5 @@ The here provided method basically computes the interpercentile range (IPR) of t
 
 ## Contents
 
-This repository holds two R functions, the first of which (`meand.ipr()`) quantifies meandering as a continuous measure.
+This repository holds two R functions in [meand_ipr.R](/meand_ipr.R), the first of which (`meand.ipr()`) quantifies meandering as a continuous measure.
 The second function (`ipr.categ()`), applied to the output of the first, categorizes this measure, allowing for e.g. application to generate boundary-layer regimes.
