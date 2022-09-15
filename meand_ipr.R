@@ -9,7 +9,7 @@ meand.ipr <- function(phi = NULL, u = NULL, v = NULL, obs.start, obs.end = F, ob
                       plot = F, path = "./", break.step = 15, output = F){
   
   # This function calculates percentiles of wind direction changes within
-  # defiend time windows to allow an estimation of meandering. To also
+  # defined time windows to allow an estimation of meandering. To also
   # consider slower direction shifts, extending over several observations,
   # the maximum shift for all time scales from input resolution up to
   # input resolution * 'dt.steps' is considered and their maximum used.
