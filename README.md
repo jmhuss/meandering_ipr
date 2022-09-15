@@ -8,7 +8,7 @@ The here provided method basically computes the interpercentile range (IPR) of t
 
 ## Contents
 
-This repository holds two R functions in [meand_ipr.R](/meand_ipr.R):\
+This repository holds two R functions in [meand_ipr.R](/meand_ipr.R):
 #### meand.ipr()
 ...quantifies meandering as a continuous measure
 #### ipr.categ()
