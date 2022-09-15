@@ -1,4 +1,4 @@
-# meandering
+# meandering_ipr
 Quantify and categorize meandering intensity of wind direction
 
 As a submeso-sclae phenomenon, meandering winds are a potential turbulence-generating mechanism especially in the weak-wind stable boundary layer.
