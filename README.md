@@ -13,3 +13,5 @@ This repository holds two R functions in [meand_ipr.R](/meand_ipr.R):
 ...quantifies meandering as a continuous measure
 #### ipr.categ()
 ...is applied to the output of `meand.ipr()` and categorizes this measure, allowing to e.g. integrate the metric into boundary-layer regimes
+
+Each function provides a basic description as well as a detailed explanation of input variables and output at the top of the respective code.
